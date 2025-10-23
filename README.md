@@ -1,6 +1,5 @@
 <h1 align="center">Hi, I'm Matias</h1>
 
-<img src="https://raw.githubusercontent.com/Mbatiass/Mbatiass/main/assets/header.png" align="center" alt="header image">
 
 -------------------
 &emsp;
